@@ -1,6 +1,6 @@
 This is a Container that contains the script movies.py that posts to the Bot channel in our Discord!
 
-## 'How it works'
+## How it works
 
 movies.py inputs one parameter (a year) and outputs the highest grossing movie of that year, how much money they made, and their movie poster.
 
@@ -11,7 +11,7 @@ For running the code, I am pretty sure that my API authentification key should w
 
 Some limitations of this data is that the gross revenue does not account for inflation, so we need to be careful if we use this data to compare different year's highest revenue movies.
 
-## 'Setting up the container'
+## Setting up the container
 
 Here is the link with my dockerhub account image where you can pull my container
 https://hub.docker.com/r/nickkalen/project1
