@@ -30,3 +30,6 @@ url https://discord.com/api/webhooks/xxxxxxx/yyyyyyyyy as the environmental vari
 
 Once that line is run, the python script will ask you for a year. If you need help, don't type anything and press enter. If you want to exit the prompt, type exit then press enter.
 
+## Conclusion
+Overall I learned a ton from this project. At first starting this project was very overwhelming, but with many trials and errors I now have a much better understanding of how all the pieces (github, docker, python, CLI, and API's) work together. Getting to the point where my code worked and posted on the Discord was very satisfying, and in the end I am happy with my work and how far I've come in this class.
+
