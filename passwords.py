@@ -1,2 +1,0 @@
-tmbd_apikey = "02c16d56853896777a07c5e47fbdb6b4"
-webhook = '808788725890941008/M_RmbFYSREb5tSGdQY0ga_g6xjQRHiFpEDCig_QxOn5lZx8FnqLA_5Bna2a7TTNDfYmf'
