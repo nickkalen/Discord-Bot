@@ -26,7 +26,7 @@ Or to save you time you can simply put this in the terminal:
 To run the container after pulling it, run this line with the xxxxx/yyyyyy part of the discord
 url https://discord.com/api/webhooks/xxxxxxx/yyyyyyyyy as the environmental variable named MY_PASS
 
-*docker run -ti -e MY_PASS=***xxxxxx/yyyyyyy****nickkalen/project1*
+*docker run -ti -e MY_PASS=***xxxxxx/yyyyyyy*** *nickkalen/project1*
 
 Once that line is run, the python script will ask you for a year. If you need help, don't type anything and press enter. If you want to exit the prompt, type exit then press enter.
 
