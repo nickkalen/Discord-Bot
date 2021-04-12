@@ -15,6 +15,8 @@ However, the discord API key is going to be passed as an environmental variable 
 
 Some limitations of this data is that the gross revenue does not account for inflation, so we need to be careful if we use this data to compare different year's highest revenue movies.
 
+## How to Use the Discord Integration
+
 ## Setting up the container
 
 Here is the link with my dockerhub account image where you can pull the files that I used:
