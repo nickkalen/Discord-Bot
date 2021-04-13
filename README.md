@@ -18,7 +18,13 @@ Some limitations of this data is that the gross revenue does not account for inf
 
 ## Setting up the container
 
-Here is the link with my dockerhub account image where you can pull the files that I used:
+First, make sure you have docker on your local machine. You can download the application using this link:
+https://docs.docker.com/get-docker/
+
+but to check if it is on your local machine run:
+pip3 install docker
+
+After docker is on your local machine, click this link which leads to my dockerhub account image where you can pull the files for my project:
 https://hub.docker.com/r/nickkalen/project1
 
 Or to save you time you can simply put this in the terminal:
@@ -26,12 +32,12 @@ Or to save you time you can simply put this in the terminal:
 *docker pull nickkalen/project1*
 
 To run the container after pulling it, run this line with the xxxxx/yyyyyy part of the discord
-url https://discord.com/api/webhooks/xxxxxxx/yyyyyyyyy as the environmental variable named MY_PASS
+url https://discord.com/api/webhooks/xxxxxxx/yyyyyyyyy as the environmental variable named MY_PASS. The contents of xxxxx/yyyyy can be found in the general channel of our discord.
 
 *docker run -ti -e* MY_PASS=***xxxxxx/yyyyyyy*** *nickkalen/project1*
 
 Once that line is run, the python script will ask you for a year. If you need help, don't type anything and press enter. If you want to exit the prompt, type exit then press enter.
 
 ## Conclusion
-Overall I learned a ton from this project. At first starting this project was very overwhelming, but with many trials and errors I now have a much better understanding of how all the pieces (github, docker, python, CLI, and API's) work together. Getting to the point where my code worked and posted on the Discord was very satisfying, and in the end I am happy with my work and how far I've come in this class.
+Overall I learned a ton from this project. At first starting this project was very overwhelming, but with many trials and errors I now have a much better understanding of how all the pieces (github, docker, python, CLI, and API's) work together. Getting to the point where my code worked and posted on the Discord was very satisfying, and in the end I am happy with my work and with how far I've come in this class.
 
