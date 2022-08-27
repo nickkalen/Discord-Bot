@@ -1,4 +1,4 @@
-## Project 1: Discord Integration
+# Discord Integration Project
 
 This is a Container that contains the script movies.py that posts to the Bot channel in our Discord!
 
